@@ -342,6 +342,10 @@ body {
         border-radius: 10px;
     }
 
+     .header p{
+        line-height: 2.7em;
+    }
+    
      #check:checked~.navbar {
         height: 17.7rem;
      }
