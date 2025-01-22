@@ -699,6 +699,7 @@ body {
         cursor: pointer;
         list-style: none;
         margin-left: 20px;
+        margin-right: 10px;
     }
 
 .tools {
