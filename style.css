@@ -844,11 +844,15 @@ body {
     color: navy;
     font-size: 17.5px;
     font-family: 'Times New Roman', Times, serif;
+    margin-left: 17px;
 }
 
 .exp {
     color: black;
     font-size: 13px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
 }
 
 .exp li{
@@ -1183,12 +1187,12 @@ body {
   }
 
   .contact-right form {
-    width: 90%;
+    width: 92%;
   }
 
   form input, form textarea {
     width: 100%;
-    padding-left: 15px;
+    margin-left: 15px;
     border: 0;
     outline: none;
     background: rgba(0, 0, 0, 0.1);
