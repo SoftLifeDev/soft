@@ -30,7 +30,7 @@ scroll-behavior: smooth;
 }
 
 body {
-    min-height: 100vh;
+    min-height: 100svh;
     background-color: #d0f8ec;
     color: #fff;
     background-position: center;
@@ -464,7 +464,7 @@ body {
     }
 
     25% {
-        content: "a Lover of the Arts 🎨 🍸";
+        content: "a Lover of the Arts 🎨";
     }
 
     50% {
