@@ -1250,3 +1250,11 @@ body {
     font-weight: 300;
     margin-top: 20px;
 }
+
+#msg {
+    color: #61b752;
+    margin-top: -5px;
+    display: block;
+   text-align: center;
+   margin-left: -45px;
+}
