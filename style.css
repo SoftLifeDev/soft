@@ -345,6 +345,10 @@ body {
      .header p{
         line-height: 2.7em;
     }
+
+     .layer{
+        height: 100%;
+    }
     
      #check:checked~.navbar {
         height: 17.7rem;
