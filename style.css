@@ -697,7 +697,7 @@ body {
 
     .tab-contents {
         font-size: 16px;
-        color: papayawhip;
+        color: tan;
         text-align: left;
         cursor: pointer;
         list-style: none;
@@ -706,7 +706,7 @@ body {
     }
 
 .tools {
-    color: papayawhip;
+    color: tan;
     list-style: none;
     display: inline;
     font-size: 3rem;
@@ -723,7 +723,7 @@ body {
 }
 
 .tools p {
-    color: papayawhip;
+    color: tan;
     font-size: 13px;
    text-align: center;
     list-style: none;
@@ -772,8 +772,8 @@ body {
 
 .cert_btn {
     display: flex;
-    background-color: papayawhip;
-    color: tan;
+    background-color: tan;
+    color: papayawhip;
     margin: 10px;
     padding: 0.5rem 1rem;
     border: 2px solid linear-gradient(rgba(0, 0, 0, 0.6), #d0f8ec);
@@ -791,8 +791,8 @@ body {
 
 .cv_btn {
     display: flex;
-    background-color: papayawhip;
-    color: tan;
+    background-color: tan;
+    color: papayawhip;
     margin: 10px auto;
     margin-right: 10px;
     margin-left: 10px;
@@ -816,7 +816,7 @@ body {
 }
 
 
-#award {
+/*#award {
    width: 16px;
    height: 16px;
    margin-right: 5px;
@@ -829,7 +829,7 @@ body {
       scale: 1.1;
        color: tan;
        text-shadow: 0 0 5px black;
-}
+}*/
 
 .cert_btn:hover {
      scale: 1.1;
