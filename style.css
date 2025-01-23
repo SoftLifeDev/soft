@@ -311,6 +311,10 @@ body {
         display: inline-flex;
     }
 
+     .about-col-1 img{
+        margin-left: 20px;
+    }
+
      .row {
         display: flex;
         justify-content: space-between;
@@ -514,7 +518,7 @@ body {
     }
 
     .about-col-1 img {
-            width: 90%;
+            width: 92%;
             height: 90%;
             border-radius: 30px;
             display: block;
@@ -522,7 +526,6 @@ body {
             transition: transform 1s;
             margin-top: 20px;
             background: linear-gradient(papayawhip, rgba(0, 0, 0, 0.6), papayawhip);
-            margin-left: 22px;
     }
 
     .about-col-1:hover img{
@@ -532,7 +535,6 @@ body {
     .about-col-1 h1{
         text-align: center;
         color: tan;
-        padding-left: 30px;
         text-shadow: 2px 2px 4px black;
         font-family: 'Times New Roman', Times, serif;
     }
@@ -540,8 +542,8 @@ body {
     .about-col-2 {
         flex-basis: 60%;
         color: #000000;
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
         justify-content: center;
         margin-top: 7%;
     }
@@ -701,8 +703,8 @@ body {
         text-align: left;
         cursor: pointer;
         list-style: none;
-        margin-left: 20px;
-        margin-right: 10px;
+        padding-left: 20px;
+        padding-right: 10px;
     }
 
 .tools {
@@ -887,8 +889,8 @@ body {
     grid-template-rows: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 30px;
     margin-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .services-list div:nth-child(1) {
@@ -990,8 +992,8 @@ body {
              grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             grid-gap: 30px;
             margin-top: 20px;
-            margin-left: 50px;
-            margin-right: 50px;
+            margin-left: 20px;
+            margin-right: 20px;
         }
 
         .work {
@@ -1129,16 +1131,16 @@ body {
     }
 
     .contact-left p {
-        margin-top: 30px;
-        margin-left: 30px;
+        margin-top: 20px;
+        margin-left: 20px;
         font-size: 25px;
         color: black;
         font-family: 'Times New Roman', Times, serif;
      }
 
    .social-icons {
-        margin-left: 30px;
-        margin-top: 30px;
+        margin-left: 20px;
+        margin-top: 20px;
     }
 
     .social-icons a {
@@ -1161,7 +1163,7 @@ body {
     background-color: navy;
     color: white;
     margin: 10px auto;
-    margin-left: 30px;
+    margin-left: 20px;
     padding: 0.5rem 1rem;
     border: 2px solid linear-gradient(rgba(0, 0, 0, 0.6), #d0f8ec);
     border-radius: 6px;
@@ -1198,7 +1200,7 @@ body {
 
   form input, form textarea {
     width: 100%;
-    margin-left: 15px;
+    margin-left: 20px;
     border: 0;
     outline: none;
     background: rgba(0, 0, 0, 0.1);
@@ -1214,7 +1216,6 @@ body {
     background-color: navy;
     color: white;
     margin: 10px auto;
-    margin-left: 70px;
     padding: 0.5rem 1rem;
     border: 2px solid linear-gradient(rgba(0, 0, 0, 0.6), #d0f8ec);
     border-radius: 6px;
