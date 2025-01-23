@@ -304,6 +304,18 @@ body {
         flex-wrap: wrap;
         flex-direction: column;
     }
+
+    .about-col-1 img{
+        margin-left: 20px;
+        margin-bottom: 510px;
+    }
+}
+
+@media (max-width: 700px) {
+    .about-col-1 img{
+        margin-left: 20px;
+        margin-bottom: 200px;
+    }    
 }
 
 @media (max-width: 576px) {
@@ -311,8 +323,9 @@ body {
         display: inline-flex;
     }
 
-     .about-col-1 img{
+    .about-col-1 img{
         margin-left: 20px;
+        margin-bottom: 0px;
     }
 
      .row {
