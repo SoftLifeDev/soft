@@ -311,14 +311,15 @@ body {
     }
 }
 
-@media (max-width: 700px) {
-    .about-col-1 img{
-        margin-left: 20px;
-        margin-bottom: 200px;
-    }    
+@media (max-width: 722px) {
+    .about-col-1 img {
+    margin-left: 20px;
+    margin-bottom: 200px;
+    }
+
 }
 
-@media (max-width: 576px) {
+@media (max-width: 600px) {
     .icons{
         display: inline-flex;
     }
