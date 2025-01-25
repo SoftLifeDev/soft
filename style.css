@@ -257,8 +257,7 @@ body {
     content: '';
     width: 0;
     height: 3px;
-    background: #ababab;
-    box-shadow: 0 0 2px black;
+    background: navy;
     position: absolute;
     left: 50%;
     bottom: -6px;
